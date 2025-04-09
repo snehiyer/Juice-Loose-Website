@@ -1,4 +1,4 @@
-# Juice-Loose-Website
+# Juice is Loose
 <section id="products">
   <h2>Our Juices</h2>
 <section id="menu">
